@@ -1,0 +1,9 @@
+venv
+venv/
+/debug.log
+*.pyc
+*.log
+!debug.log
+.idea
+__pycache__
+
